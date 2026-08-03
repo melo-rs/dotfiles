@@ -1,8 +1,9 @@
-# Exclude all files
+# exclude all files
 *
 
-# Add .gitignore
+# but .gitignore
 !.gitignore
 
-# Add listed folders
-!/hypr
+# and listed files
+!hypr
+!hypr/**
