@@ -7,3 +7,6 @@
 # and listed files
 !hypr
 !hypr/**
+!Code
+!Code/User
+!Code/User/settings.json
